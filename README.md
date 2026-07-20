@@ -109,6 +109,7 @@ Through this project, I strengthened my skills in:
 ---
 ## 👨‍💻 Author
 **Rikvinder Batoliya**
+
 **Aspiring Data Analyst**
 
 ### Skills
